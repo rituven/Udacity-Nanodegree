@@ -1,0 +1,9 @@
+
+Here is a list of links I used as reference while working on this project:
+
+1. Sample Data Wrangling Project: https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
+2. The MongoDB Manual: http://docs.mongodb.org/manual/ 
+3. PyMongo Documentation: https://api.mongodb.org/python/current/
+4. And not to forget the wonderful 'Data Wrangling in MongoDB' course and all the exercises completed 
+   while taking the course.
+

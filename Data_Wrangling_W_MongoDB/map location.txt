@@ -1,0 +1,5 @@
+Map Area: Portland, OR, United States
+https://www.openstreetmap.org/export#map=13/45.5118/-122.7928
+
+I picked the data for NW Portland and some part of SW Beaverton because this is 
+an area where I have lived and worked in the past and am very familiar with.
